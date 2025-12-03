@@ -19,5 +19,8 @@ FastAPI untuk manajemen data denah ruangan fakultas di kampus.
 
 ### 1. Clone Repository
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/Itingsss/RESTFUL-API/)
 cd denah-api
+pip install -r requirements.txt
+python main.py
+
